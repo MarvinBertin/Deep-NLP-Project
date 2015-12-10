@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+
+# Jupyter
+.ipynb_checkpoints/
+
 __pycache__/
 *.py[cod]
 
