@@ -1,6 +1,10 @@
 """
 NLP-Deep Text Processing Utility Functions
+
+Inspired from Michael Fire's notebook
+'dato.com/learn/gallery/notebooks/deep_text_learning.html'
 """
+
 from numpy import average
 import os
 import gensim
